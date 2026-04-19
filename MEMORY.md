@@ -90,3 +90,7 @@
 - [2026-04-18 16:20:54] The user has been using the same programming language for over 5 years.
 - [2026-04-18 15:55:03] The user has installed the latest version of Node.js on their server.
 - [2026-04-18 15:33:58] The user has been using a personal AI assistant for the past year.
+
+## 网站修改流程（2026-04-19）
+- [x] 父皇明确要求：代码修改后先发预览，本地确认后再提交 GitHub
+- 禁止直接 commit → push，必须先 review
